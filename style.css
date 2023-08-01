@@ -1,0 +1,35 @@
+
+.main{
+    margin-left: 18vw;
+}
+
+.main-img{
+    height: 60vh;
+    width: 60vw;
+    
+    border-radius: 25px;
+}
+h2{
+    display: inline;
+    font-size: 20px;
+}
+.first{
+    color: blueviolet;
+}
+.head{
+    height: 25vh;
+    width: 90vh;
+    font-weight: bolder;
+        font-size: 20px;
+}
+.second{
+    
+    margin-left: 3vw;
+}
+button{
+    margin-left: 3vh;
+    background-color:rgb(133, 230, 133);
+    border-radius: 10px;
+    height: 5vh;
+    border-width: 0px;
+}
